@@ -1,0 +1,9 @@
+plugins/sop/
+├── sop.plugin.php
+├── helper.php
+├── admin/
+│   └── sop_admin.inc.php
+├── opac/
+│   └── sop.inc.php
+└── migration/
+    └── 1_CreateSopTable.php
