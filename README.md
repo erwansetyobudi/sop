@@ -1,4 +1,3 @@
-```
 # 📋 Plugin SOP - Standar Operasional Prosedur Perpustakaan
 
 **Version:** 1.0.0  
